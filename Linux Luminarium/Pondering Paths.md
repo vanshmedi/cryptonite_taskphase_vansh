@@ -1,4 +1,4 @@
-# Module 1: Pondering Paths
+# Module 2: Pondering Paths
 ## The root
 
 **Task 1:** Understanding _root( / )_ as a part of file structures
