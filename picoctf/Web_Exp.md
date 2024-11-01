@@ -18,7 +18,7 @@ terminal output
 
 - etc.
 
-![screenshot](./screenshot.png)
+![screenshot](./cookies_ss.png)
 
 What you learned through solving this challenge:
 
