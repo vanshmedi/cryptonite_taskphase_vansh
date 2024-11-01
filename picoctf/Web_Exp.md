@@ -18,7 +18,7 @@ terminal output
 
 - etc.
 
-![screenshot](./cookies_ss.png)
+![screenshot](./.png)
 
 What you learned through solving this challenge:
 
@@ -110,7 +110,7 @@ and so on
 
 This went on upto value of 18 where it gave the flag
 
-![screenshot](./screenshot.png)
+![screenshot](./cookies_ss.png)
 
 What you learned through solving this challenge:
 
