@@ -118,12 +118,5 @@ What you learned through solving this challenge:
 
 Other incorrect methods you tried:
 
-- a
-- b
-- c
+- a. Looking through the source code for any clue of the value, but ended up brute forcing it
 
-References
-
-- reference 1
-- reference 2
-- etc.
