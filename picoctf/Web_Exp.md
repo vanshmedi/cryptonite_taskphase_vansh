@@ -114,9 +114,7 @@ This went on upto value of 18 where it gave the flag
 
 What you learned through solving this challenge:
 
-1. first concept
-2. second concept
-3. etc.
+1. Going through cookies and editing thier values
 
 Other incorrect methods you tried:
 
