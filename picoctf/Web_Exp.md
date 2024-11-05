@@ -39,46 +39,31 @@ References
 - etc.
 
 
-# Challenge name
+# Forbidden Paths
 
-**Flag:** `flag`
+**Flag:** `picoCTF{7h3_p47h_70_5ucc355_6db46514}`
 
 How you approached the challenge:
 
-- step 1
+- Step 1
+Looking at the challenge prompt and specifically at `/usr/share/nginx/html/`, I realised I had to use relative paths to get to `flag.txt` 
 
-```
-code
-```
+- Step 2
+Keep adding `../` with the file to keep moving backwards into the parent directory and see if I get a response
 
-- step 2
-
-```
-terminal output
-```
-
-- etc.
-
+- Step 3
+Retrieve the flag using the final prompt as `../../../flag.txt`
 ![screenshot](./screenshot.png)
 
 What you learned through solving this challenge:
 
-1. first concept
-2. second concept
-3. etc.
+1. Relative file paths and their usage
 
 Other incorrect methods you tried:
 
-- a
-- b
-- c
-
-References
-
-- reference 1
-- reference 2
-- etc.
-
+- a. Directly trying to run `/flag.txt` or just `flag.txt` 
+- b. Going through source code to find a hidden file
+- 
 
 # cookies
 
