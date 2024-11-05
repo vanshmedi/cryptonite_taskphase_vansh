@@ -45,13 +45,13 @@ References
 
 How you approached the challenge:
 
-- Step 1
+- Step 1:
 Looking at the challenge prompt and specifically at `/usr/share/nginx/html/`, I realised I had to use relative paths to get to `flag.txt` 
 
-- Step 2
+- Step 2:
 Keep adding `../` with the file to keep moving backwards into the parent directory and see if I get a response
 
-- Step 3
+- Step 3:
 Retrieve the flag using the final prompt as `../../../flag.txt`
 ![screenshot](./screenshot.png)
 
